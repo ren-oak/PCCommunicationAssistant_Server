@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TCPServer">
+</Property><Property Name="解决方案文件" Value="E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\TCPServer.sln">
+</Property><Property Name="用户选项文件" Value="E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\TCPServer.suo">
+</Property><Property Name="Date" Value="2013年10月8日星期二">
+</Property><Property Name="Time" Value="14:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TCPServer.sln" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\TCPServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TCPServer.suo" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\TCPServer.suo">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="TCPServer.csproj" Description="项目文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\TCPServer.csproj">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Form1.cs" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Form1.Designer.cs" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Program.cs" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Properties\Settings.settings" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Form1.resx" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="Properties\Resources.resx" Description="文件已成功备份为 E:\SIAT\C#网络编程\远程控制\聊天\TCPServer\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="TCPServer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="TCPServer" Source="TCPServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TCPServer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="TCPServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TCPServer" Source="TCPServer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

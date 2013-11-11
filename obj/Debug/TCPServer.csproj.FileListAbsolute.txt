@@ -1,0 +1,46 @@
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\myServer\myServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\TCPServer.pdb
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe.config
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\bin\Debug\TCPServer.exe
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\bin\Debug\TCPServer.pdb
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\GenerateResource.read.1.tlog
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\GenerateResource.write.1.tlog
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\TCPServer.exe
+E:\串口助手+服务器客户端确定版本\修正确定版\myServer\myServer\TCPServer\obj\Debug\TCPServer.pdb
+E:\code\PCCommunicationAssistant\myServer\TCPServer\bin\Debug\TCPServer.exe.config
+E:\code\PCCommunicationAssistant\myServer\TCPServer\obj\Debug\TCPServer.exe
+E:\code\PCCommunicationAssistant\myServer\TCPServer\obj\Debug\TCPServer.pdb
